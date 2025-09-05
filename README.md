@@ -1,29 +1,22 @@
-#GTC ML Project 1 - Hotel Bookings
+**GTC ML Project 1 - Hotel Bookings**
 
-This repository contains my submission for **GTC ML Project 1 - Data Cleaning & Preprocessing Challenge** using the Hotel Bookings dataset.
+This repo is for my submission in the GTC ML project 1.  
+The dataset is about hotel bookings.
 
-##Files included
-- `Project1.ipynb` → Jupyter Notebook with data cleaning and preprocessing steps.
-- `hotel_bookings_cleaned.csv` → cleaned dataset after preprocessing.
-- `README.md` → project description and instructions.
+**Files**
+- `project_1.ipynb` → my notebook in Google Colab for data cleaning
+- `hotel_bookings_cleaned.csv` → dataset after cleaning
+- `README.md` → this file
 
-##Project Description
-The goal of this project is to perform **data cleaning and preprocessing** on the Hotel Bookings dataset.  
-This includes:
-- Handling missing values.
-- Removing duplicates.
-- Fixing data types.
-- Preparing the dataset for further analysis or modeling.
+**What I did**
+- removed missing values
+- dropped duplicates
+- fixed some data types
 
-##Tools & Libraries
-- Python
-- Pandas
-- NumPy
+**Tools**
 - Google Colab
+- Python (Pandas, Numpy)
 
-##How to Use
-1. Clone this repository or download the files.
-2. Open `project1.ipynb` in Jupyter Notebook or Google Colab.
-3. Run all cells to reproduce the data cleaning process.
-4. Use `hotel_bookings_cleaned.csv` for analysis or machine learning tasks.
-
+**How to use**
+Open the notebook and run all cells.  
+The cleaned dataset can be used for more analysis.
